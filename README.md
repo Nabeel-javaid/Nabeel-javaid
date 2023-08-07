@@ -9,11 +9,19 @@ I'm a passionate software developer and open-source enthusiast. Welcome to my Gi
 
 | Overall issues | High risk | Unique highs | Medium risk | Unique mediums | Projects audited | QA grade A
 | ---------------| ----------| -------------| ------------| ---------------| -----------------| ----------|
-| 40             | 30        | 10           |  15         | 30             | 10               | 1
+| 40             | 30        | 10           |  15         | 30             | 10               | 1         |
 
 
 
-# Sherlock ![image](https://github.com/Nabeel-javaid/Nabeel-javaid/assets/95472385/fff042ca-c35c-4f0d-ae44-18c4898df9ce)
+# Sherlock 
+
+| Contest | High risk | Medium risk | Security report | Position | Payout | Language |
+| --------| ----------| ------------| ----------------| ---------| -------| ---------|
+| 40      | 30        | 10          |  15             | 30       | 10     | 1        |
+| 40      | 30        | 10          |  15             | 30       | 10     | 1        |
+| 40      | 30        | 10          |  15             | 30       | 10     | 1        |
+| 40      | 30        | 10          |  15             | 30       | 10     | 1        |
+| 40      | 30        | 10          |  15             | 30       | 10     | 1        |
 
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
