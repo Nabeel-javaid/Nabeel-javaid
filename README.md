@@ -1,8 +1,8 @@
 
 <!-- Your Name and Introduction -->
-# Hello, I'm 0xepley! 👋
+# Hello, W are BugBusters 👋
 
-I'm a passionate software developer and open-source enthusiast. Welcome to my GitHub profile, where I share my projects and contributions to the community.
+<!--I'm a passionate software developer and open-source enthusiast. Welcome to my GitHub profile, where I share my projects and contributions to the community.-->
 
 <!-- Profile Picture -->
 # Wall of achievements 🥳
