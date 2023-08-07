@@ -28,13 +28,18 @@ I'm a passionate software developer and open-source enthusiast. Welcome to my Gi
 # Code4rena 
 
 ## Audit Competitions
-| Contest                             | High risk | Unique High risk | Medium risk | Unique Medium risk | Security report | Position | Payout | Language |
-| ------------------------------------| ----------| -----------------| ------------| -------------------| ----------------| ---------|--------|----------|
-| Asymmetry Finance                   | 2         |         -        |  2          |            -       | [Report](https://code4rena.com/reports/2023-03-asymmetry)     | $85.96        | Solidity
-| Rubicon v2                          | 4         |         -        |  2          |            -       | -                                                             | $826.54       | Solidity
-| Venus Protocol Isolated Pools       | -         |         -        |  1          |            -       | -                                                             | $732.00       | Solidity
-| Chainlink Cross-Chain Services      | 1         |         -        |  -          |            -       | -                                                             | $201.79       | Solidity   
-| 40      | 30        | 10          |  15             | 30       | $24.76     | 1        
+| Contest                             | High risk | Medium risk |                        Security report                        | Payout       |  Language |
+| ------------------------------------| ----------| ------------|  -------------------------------------------------------------| -------------|-----------|
+| Asymmetry Finance                   | 2         |  2          |  [Report](https://code4rena.com/reports/2023-03-asymmetry)    | $85.96       | Solidity
+| Rubicon v2                          | 4         |  2          |   -                                                           | $826.54      | Solidity
+| Venus Protocol Isolated Pools       | -         |  1          |   -                                                           | $732.00      | Solidity
+| Chainlink Cross-Chain Services      | 1         |  -          |   -                                                           | $201.79      | Solidity   
+| Maia DAO Ecosystem                  | -         |  2          |   -                                                           | $24.76       | Solidity  
+| Lybra Finance                       | -         |  1 (solo)   |   -                                                           | $1,444.45    | Solidity    
+| Amphora Protocol                    | -         |  -          |   -                                                           | -            | Solidity       
+| Arcade.xyz                          | -         |  -          |   -                                                           | -            | Solidity       
+
+
 
 
 # CodeHawks
@@ -55,7 +60,7 @@ I'm a passionate software developer and open-source enthusiast. Welcome to my Gi
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabeel-javaid&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabeel-javaid&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)-->
 
 <!-- Technologies & Tools -->
 ## 🛠️ Technologies & Tools
