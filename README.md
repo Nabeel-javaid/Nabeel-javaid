@@ -1,6 +1,6 @@
 
 <!-- Your Name and Introduction -->
-# Hello, W are BugBusters 👋
+# Hello, We are BugBusters 👋
 
 <!--I'm a passionate software developer and open-source enthusiast. Welcome to my GitHub profile, where I share my projects and contributions to the community.-->
 
