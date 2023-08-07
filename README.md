@@ -10,7 +10,7 @@ I'm a passionate software developer and open-source enthusiast. Welcome to my Gi
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabeel-javaid&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
 
 <!-- Technologies & Tools -->
 ## 🛠️ Technologies & Tools
