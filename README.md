@@ -79,8 +79,8 @@
 
 You can connect with us on:
 
-- [Twitter](https://twitter.com/0xepley)
-- [Twitter](https://twitter.com/0xnirlin)
+- [0xepley](https://twitter.com/0xepley)
+- [0xNirlin](https://twitter.com/0xnirlin)
 
 
 
