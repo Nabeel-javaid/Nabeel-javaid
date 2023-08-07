@@ -1,13 +1,12 @@
 ### Hi there 👋
 
 <!-- Your Name and Introduction -->
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm 0xepley! 👋
 
 I'm a passionate software developer and open-source enthusiast. Welcome to my GitHub profile, where I share my projects and contributions to the community.
 
 <!-- Profile Picture -->
-![Profile Picture](URL_TO_YOUR_PROFILE_PICTURE)
-
+## Wall of achievements🥳
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
 
