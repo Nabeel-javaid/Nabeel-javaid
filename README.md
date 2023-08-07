@@ -75,11 +75,13 @@
 - [Add more featured repositories here]
 
 <!-- How to Reach Me -->
-## 📫 How to Reach Me
+## 📫 How to Reach us
 
-You can connect with me on:
+You can connect with us on:
 
 - [Twitter](https://twitter.com/0xepley)
+- [Twitter](https://twitter.com/0xnirlin)
+
 
 
 <!-- Footer -->
