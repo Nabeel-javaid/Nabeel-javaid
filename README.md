@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!-- Your Name and Introduction -->
 # Hello, I'm 0xepley! 👋
@@ -7,6 +6,18 @@ I'm a passionate software developer and open-source enthusiast. Welcome to my Gi
 
 <!-- Profile Picture -->
 ## Wall of achievements🥳
+|Overall issues found	High risk	Unique highs	Medium risk	Unique mediums	Audited contests
+|35 issues found	20 highs	-	15 mediums	-	8 contests
+
+
+| Overall issues | High risk | Unique highs | Medium risk | Unique mediums | Projects audited |
+| --------- | --- | ------------- |
+| John      | 30  | Developer     | | John      | 30  | Developer     | 
+| Jane      | 25  | Designer      |
+| Mike      | 40  | Data Scientist|
+
+
+
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
 
