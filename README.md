@@ -16,8 +16,8 @@ I'm a passionate software developer and open-source enthusiast. Welcome to my Gi
 # Sherlock 
 
 ## Audit Competitions
-| Contest | High risk | Medium risk | Security report | Position | Payout | Language |
-| --------| ----------| ------------| ----------------| ---------| -------| ---------|
+| Contest | High risk | Unique High risk | Medium risk | Unique Medium risk | Security report | Position | Payout | Language |
+| --------| ----------| -----------------| ------------| -------------------| ----------------| ---------|--------|----------|
 | 40      | 30        | 10          |  15             | 30       | 10     | 1        |
 | 40      | 30        | 10          |  15             | 30       | 10     | 1        |
 | 40      | 30        | 10          |  15             | 30       | 10     | 1        |
@@ -28,9 +28,9 @@ I'm a passionate software developer and open-source enthusiast. Welcome to my Gi
 # Code4rena 
 
 ## Audit Competitions
-| Contest | High risk | Medium risk | Security report | Position | Payout | Language |
-| --------| ----------| ------------| ----------------| ---------| -------| ---------|
-| 40      | 30        | 10          |  15             | 30       | 10     | 1        |
+| Contest            | High risk | Unique High risk | Medium risk | Unique Medium risk | Security report | Position | Payout | Language |
+| -------------------| ----------| -----------------| ------------| -------------------| ----------------| ---------|--------|----------|
+| Asymmetry Finance  | 2         |         -        |  2          |            -       | [Report](https://code4rena.com/reports/2023-03-asymmetry)     | 1        |
 | 40      | 30        | 10          |  15             | 30       | 10     | 1        |
 | 40      | 30        | 10          |  15             | 30       | 10     | 1        |
 | 40      | 30        | 10          |  15             | 30       | 10     | 1        |
@@ -40,9 +40,9 @@ I'm a passionate software developer and open-source enthusiast. Welcome to my Gi
 # CodeHawks
 
 ## Audit Competitions
-| Contest | High risk | Medium risk | Security report | Position | Payout | Language |
-| --------| ----------| ------------| ----------------| ---------| -------| ---------|
-| 40      | 30        | 10          |  15             | 30       | 10     | 1        |
+| Contest | High risk | Unique High risk | Medium risk | Unique Medium risk | Security report | Position | Payout | Language |
+| --------| ----------| -----------------| ------------| -------------------| ----------------| ---------|--------|----------|
+| Beedle  | 30        | 10          |  15             | 30       | 10     | 1        |
 
 
 # Hats Finance
@@ -74,10 +74,8 @@ I'm a passionate software developer and open-source enthusiast. Welcome to my Gi
 
 You can connect with me on:
 
-- [LinkedIn](URL_TO_YOUR_LINKEDIN_PROFILE)
-- [Twitter](URL_TO_YOUR_TWITTER_PROFILE)
+- [Twitter](https://twitter.com/0xepley)
 
-Feel free to explore my repositories and contribute if you find anything interesting!
 
 <!-- Footer -->
 ---
