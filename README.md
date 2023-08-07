@@ -24,6 +24,34 @@ I'm a passionate software developer and open-source enthusiast. Welcome to my Gi
 | 40      | 30        | 10          |  15             | 30       | 10     | 1        |
 | 40      | 30        | 10          |  15             | 30       | 10     | 1        |
 
+
+# Code4rena 
+
+## Audit Competitions
+| Contest | High risk | Medium risk | Security report | Position | Payout | Language |
+| --------| ----------| ------------| ----------------| ---------| -------| ---------|
+| 40      | 30        | 10          |  15             | 30       | 10     | 1        |
+| 40      | 30        | 10          |  15             | 30       | 10     | 1        |
+| 40      | 30        | 10          |  15             | 30       | 10     | 1        |
+| 40      | 30        | 10          |  15             | 30       | 10     | 1        |
+| 40      | 30        | 10          |  15             | 30       | 10     | 1        |
+
+
+# CodeHawks
+
+## Audit Competitions
+| Contest | High risk | Medium risk | Security report | Position | Payout | Language |
+| --------| ----------| ------------| ----------------| ---------| -------| ---------|
+| 40      | 30        | 10          |  15             | 30       | 10     | 1        |
+
+
+# Hats Finance
+
+## Audit Competitions
+| Contest | High risk | Medium risk | Security report | Position | Payout | Language |
+| --------| ----------| ------------| ----------------| ---------| -------| ---------|
+| 40      | 30        | 10          |  15             | 30       | 10     | 1        |
+
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
 
