@@ -5,7 +5,7 @@
 I'm a passionate software developer and open-source enthusiast. Welcome to my GitHub profile, where I share my projects and contributions to the community.
 
 <!-- Profile Picture -->
-## Wall of achievements🥳
+# Wall of achievements🥳
 <!--|Overall issues found	High risk	Unique highs	Medium risk	Unique mediums	Audited contests
 |35 issues found	20 highs	-	15 mediums	-	8 contests-->
 
@@ -16,7 +16,7 @@ I'm a passionate software developer and open-source enthusiast. Welcome to my Gi
 
 
 
-## Sherlock ![image](https://github.com/Nabeel-javaid/Nabeel-javaid/assets/95472385/fff042ca-c35c-4f0d-ae44-18c4898df9ce)
+# Sherlock ![image](https://github.com/Nabeel-javaid/Nabeel-javaid/assets/95472385/fff042ca-c35c-4f0d-ae44-18c4898df9ce)
 
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
