@@ -72,7 +72,6 @@
 
 - [Repository 1](https://github.com/YOUR_GITHUB_USERNAME/repository-1)
 - [Repository 2](https://github.com/YOUR_GITHUB_USERNAME/repository-2)
-- [Add more featured repositories here]
 
 <!-- How to Reach Me -->
 ## 📫 How to Reach us
