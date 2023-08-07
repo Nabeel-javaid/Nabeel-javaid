@@ -28,13 +28,13 @@ I'm a passionate software developer and open-source enthusiast. Welcome to my Gi
 # Code4rena 
 
 ## Audit Competitions
-| Contest            | High risk | Unique High risk | Medium risk | Unique Medium risk | Security report | Position | Payout | Language |
-| -------------------| ----------| -----------------| ------------| -------------------| ----------------| ---------|--------|----------|
-| Asymmetry Finance  | 2         |         -        |  2          |            -       | [Report](https://code4rena.com/reports/2023-03-asymmetry)     | 1        |
-| 40      | 30        | 10          |  15             | 30       | 10     | 1        |
-| 40      | 30        | 10          |  15             | 30       | 10     | 1        |
-| 40      | 30        | 10          |  15             | 30       | 10     | 1        |
-| 40      | 30        | 10          |  15             | 30       | 10     | 1        |
+| Contest                             | High risk | Unique High risk | Medium risk | Unique Medium risk | Security report | Position | Payout | Language |
+| ------------------------------------| ----------| -----------------| ------------| -------------------| ----------------| ---------|--------|----------|
+| Asymmetry Finance                   | 2         |         -        |  2          |            -       | [Report](https://code4rena.com/reports/2023-03-asymmetry)     | $85.96        | Solidity
+| Rubicon v2                          | 4         |         -        |  2          |            -       | -                                                             | $826.54       | Solidity
+| Venus Protocol Isolated Pools       | -         |         -        |  1          |            -       | -                                                             | $732.00       | Solidity
+| Chainlink Cross-Chain Services      | 1         |         -        |  -          |            -       | -                                                             | $201.79       | Solidity   
+| 40      | 30        | 10          |  15             | 30       | $24.76     | 1        
 
 
 # CodeHawks
