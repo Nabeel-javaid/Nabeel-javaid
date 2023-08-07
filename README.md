@@ -5,7 +5,7 @@
 I'm a passionate software developer and open-source enthusiast. Welcome to my GitHub profile, where I share my projects and contributions to the community.
 
 <!-- Profile Picture -->
-# Wall of achievements🥳
+# Wall of achievements 🥳
 
 | Overall issues | High risk | Unique highs | Medium risk | Unique mediums | Projects audited | QA grade A
 | ---------------| ----------| -------------| ------------| ---------------| -----------------| ----------|
@@ -15,6 +15,7 @@ I'm a passionate software developer and open-source enthusiast. Welcome to my Gi
 
 # Sherlock 
 
+## Audit Competitions
 | Contest | High risk | Medium risk | Security report | Position | Payout | Language |
 | --------| ----------| ------------| ----------------| ---------| -------| ---------|
 | 40      | 30        | 10          |  15             | 30       | 10     | 1        |
