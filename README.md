@@ -59,15 +59,15 @@
 | Beedle  | 30        | 10          |  15             | 30       | 10     | 1        |
 
 
-# Hats Finance
+<!--# Hats Finance
 
 ## Audit Competitions
 | Contest | High risk | Medium risk | Security report | Position | Payout | Language |
 | --------| ----------| ------------| ----------------| ---------| -------| ---------|
-| 40      | 30        | 10          |  15             | 30       | 10     | 1        |
+| 40      | 30        | 10          |  15             | 30       | 10     | 1        |-->
 
-<!-- GitHub Stats -->
-## 📈 GitHub Stats
+<!-- GitHub Stats 
+## 📈 GitHub Stats-->
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabeel-javaid&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)-->
 
