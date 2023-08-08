@@ -16,18 +16,17 @@
 # Sherlock 
 
 ## Audit Competitions
-| Contest | High risk | Medium risk |  Security report | Payout | Language |
-| --------| ----------| ------------| -----------------| -------| ---------| 
-| unstoppable     | 30        | 10          |  15             | 30       | 10     | 1        |
-| hubble-exchange      | 30        | 10          |  15             | 30       | 10     | 1        |
-| dodo      | 30        | 10          |  15             | 30       | 10     | 1        |
-| real-wagmi      | 30        | 10          |  15             | 30       | 10     | 1        |
-| Index      | 30        | 10          |  15             | 30       | 10     | 1        |
-| Ironbank      | 30        | 10          |  15             | 30       | 10     | 1        |
-| USSD      | 30        | 10          |  15             | 30       | 10     | 1        |
-| Blueberry      | 30        | 10          |  15             | 30       | 10     | 1        |
-| USSD      | 30        | 10          |  15             | 30       | 10     | 1        |
-| Y2K      | 30        | 10          |  15             | 30       | 10     | 1        |
+| Contest          | High risk | Medium risk |  Security report | Payout   | Language |
+| -----------------| ----------| ------------| -----------------| ---------| ---------| 
+| Unstoppable      | 3         | 0           |  -               | $1924.18 | Vyper    | 
+| Hubble-exchange  | 0         | 3 (1 solo)  |  -               | $2,415.61| Solidity |  
+| Dodo             | -         | -           |  -               | -        | Solidity | 
+| Real-wagmi       | 30        | 10          |  -               | 30       | Solidity | 
+| Index            | 0         | 5           |  -               | $123.58  | Solidity | 
+| Ironbank         | 0         | 4           |  -               | $104.39  | Solidity | 
+| USSD             | 4         | 5           |  -               | $28.91   | Solidity | 
+| Blueberry        | 1         | 1           |  15              | $518.78  | Solidity | 
+| Y2K              | 1         | 3           |  [Report](https://github.com/sherlock-audit/2023-03-Y2K-judging/blob/main/Audit_Report.pdf)              | $230.12  | Solidity | 
 
 
 
