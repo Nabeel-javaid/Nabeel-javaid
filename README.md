@@ -71,13 +71,13 @@
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabeel-javaid&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)-->
 
-<!-- Technologies & Tools -->
+<!-- Technologies & Tools 
 ## 🛠️ Technologies & Tools
 
 - List some of the technologies and tools you use, e.g. languages, frameworks, etc.
-
+-->
 <!-- Featured Repositories -->
-## 📚 Featured Issues
+## 📚 Featured Issues (Solo)
 
 - [Issue 1](https://github.com/code-423n4/2023-06-lybra-findings/issues/484)
 - [Issue 2](https://github.com/sherlock-audit/2023-04-hubble-exchange-judging/issues/234)
