@@ -54,9 +54,9 @@
 # CodeHawks
 
 ## Audit Competitions
-| Contest | High risk | Unique High risk | Medium risk | Unique Medium risk | Security report | Position | Payout | Language |
-| --------| ----------| -----------------| ------------| -------------------| ----------------| ---------|--------|----------|
-| Beedle  | 30        | 10          |  15             | 30       | 10     | 1        |
+| Contest | High risk | Medium risk | Security report | Position | Payout | Language |
+| --------| ----------| ------------| ----------------| ---------| -------| ---------|
+| Beedle  | 5         | 4           |  -              | -        | -      | 1        |
 
 
 <!--# Hats Finance
