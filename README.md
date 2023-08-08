@@ -16,13 +16,23 @@
 # Sherlock 
 
 ## Audit Competitions
-| Contest | High risk | Unique High risk | Medium risk | Unique Medium risk | Security report | Position | Payout | Language |
-| --------| ----------| -----------------| ------------| -------------------| ----------------| ---------|--------|----------|
-| 40      | 30        | 10          |  15             | 30       | 10     | 1        |
-| 40      | 30        | 10          |  15             | 30       | 10     | 1        |
-| 40      | 30        | 10          |  15             | 30       | 10     | 1        |
-| 40      | 30        | 10          |  15             | 30       | 10     | 1        |
-| 40      | 30        | 10          |  15             | 30       | 10     | 1        |
+| Contest | High risk | Medium risk |  Security report | Payout | Language |
+| --------| ----------| ------------| -----------------| -------| ---------| 
+| unstoppable     | 30        | 10          |  15             | 30       | 10     | 1        |
+| hubble-exchange      | 30        | 10          |  15             | 30       | 10     | 1        |
+| dodo      | 30        | 10          |  15             | 30       | 10     | 1        |
+| real-wagmi      | 30        | 10          |  15             | 30       | 10     | 1        |
+| Index      | 30        | 10          |  15             | 30       | 10     | 1        |
+| Ironbank      | 30        | 10          |  15             | 30       | 10     | 1        |
+| USSD      | 30        | 10          |  15             | 30       | 10     | 1        |
+| Blueberry      | 30        | 10          |  15             | 30       | 10     | 1        |
+| USSD      | 30        | 10          |  15             | 30       | 10     | 1        |
+| Y2K      | 30        | 10          |  15             | 30       | 10     | 1        |
+
+
+
+
+
 
 
 # Code4rena 
