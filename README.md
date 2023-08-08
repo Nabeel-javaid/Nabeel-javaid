@@ -77,10 +77,10 @@
 - List some of the technologies and tools you use, e.g. languages, frameworks, etc.
 
 <!-- Featured Repositories -->
-## 📚 Featured Repositories
+## 📚 Featured Issues
 
-- [Repository 1](https://github.com/YOUR_GITHUB_USERNAME/repository-1)
-- [Repository 2](https://github.com/YOUR_GITHUB_USERNAME/repository-2)
+- [Issue 1]([https://github.com/YOUR_GITHUB_USERNAME/repository-1](https://github.com/code-423n4/2023-06-lybra-findings/issues/484))
+- [Issue 2]([https://github.com/YOUR_GITHUB_USERNAME/repository-2](https://github.com/sherlock-audit/2023-04-hubble-exchange-judging/issues/234))
 
 <!-- How to Reach Me -->
 ## 📫 How to Reach us
