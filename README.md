@@ -56,7 +56,7 @@
 ## Audit Competitions
 | Contest | High risk | Medium risk | Security report | Position | Payout | Language |
 | --------| ----------| ------------| ----------------| ---------| -------| ---------|
-| Beedle  | -         | -           |  -              | -        | -      | 1        |
+| Beedle  | -         | -           |  -              | -        | -      | Solidity |
 
 
 <!--# Hats Finance
