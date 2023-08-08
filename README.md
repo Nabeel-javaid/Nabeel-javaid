@@ -7,9 +7,9 @@
 <!-- Profile Picture -->
 # Wall of achievements 🥳
 
-| Overall issues | High risk | Unique highs | Medium risk | Unique mediums | Projects audited | QA grade A
-| ---------------| ----------| -------------| ------------| ---------------| -----------------| ----------|
-| 40             | 30        | 10           |  15         | 30             | 10               | 1         |
+| Overall issues | High risk | Unique highs | Medium risk | Unique mediums | Projects audited 
+| ---------------| ----------| -------------| ------------| ---------------| ----------------
+| 45             | 16        | 0            |  29          | 2              | 17              
 
 
 
@@ -21,7 +21,7 @@
 | Unstoppable      | 3         | 0           |  -               | $1924.18 | Vyper    | 
 | Hubble-exchange  | 0         | 3 (1 solo)  |  -               | $2,415.61| Solidity |  
 | Dodo             | -         | -           |  -               | -        | Solidity | 
-| Real-wagmi       | 30        | 10          |  -               | 30       | Solidity | 
+| Real-wagmi       | -         | -           |  -               | -        | Solidity | 
 | Index            | 0         | 5           |  -               | $123.58  | Solidity | 
 | Ironbank         | 0         | 4           |  -               | $104.39  | Solidity | 
 | USSD             | 4         | 5           |  -               | $28.91   | Solidity | 
