@@ -1,6 +1,6 @@
 
 <!-- Your Name and Introduction -->
-# Hello, We are BugBusters👋
+# Hello, we are bugBusters, Independent Smart Contract auditor and Security Researcher👋
 
 <!--I'm a passionate software developer and open-source enthusiast. Welcome to my GitHub profile, where I share my projects and contributions to the community.-->
 
@@ -9,7 +9,7 @@
 
 | Overall issues | High risk | Unique highs | Medium risk | Unique mediums | Projects audited 
 | ---------------| ----------| -------------| ------------| ---------------| ----------------
-| 45             | 16        | 0            |  29          | 2              | 17              
+| 45             | 14        | 0            |  26          | 2              | 17              
 
 
 
@@ -26,7 +26,6 @@
 | Ironbank         | 0         | 4           |  -               | $104.39  | Solidity | 
 | USSD             | 4         | 5           |  -               | $28.91   | Solidity | 
 | Blueberry        | 1         | 1           |  15              | $518.78  | Solidity | 
-| Y2K              | 1         | 3           |  [Report](https://github.com/sherlock-audit/2023-03-Y2K-judging/blob/main/Audit_Report.pdf)              | $230.12  | Solidity | 
 
 
 
@@ -42,7 +41,6 @@
 | Asymmetry Finance                   | 2         |  2          |  [Report](https://code4rena.com/reports/2023-03-asymmetry)    | $85.96       | Solidity
 | Rubicon v2                          | 4         |  2          |   -                                                           | $826.54      | Solidity
 | Venus Protocol Isolated Pools       | -         |  1          |   -                                                           | $732.00      | Solidity
-| Chainlink Cross-Chain Services      | 1         |  -          |   -                                                           | $201.79      | Solidity   
 | Maia DAO Ecosystem                  | -         |  2          |   -                                                           | $24.76       | Solidity  
 | Lybra Finance                       | -         |  1 (solo)   |   -                                                           | $1,444.45    | Solidity    
 | Amphora Protocol                    | -         |  -          |   -                                                           | -            | Solidity       
@@ -83,12 +81,11 @@
 - [Issue 2](https://github.com/sherlock-audit/2023-04-hubble-exchange-judging/issues/234)
 
 <!-- How to Reach Me -->
-## 📫 How to Reach us
+## 📫 How to Reach me
 
-You can connect with us on:
+You can connect with me on:
 
 - [0xepley](https://twitter.com/0xepley)
-- [0xNirlin](https://twitter.com/0xnirlin)
 
 
 
