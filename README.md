@@ -1,112 +1,253 @@
-
-<!-- Your Name and Introduction -->
-# Hello, we are bugBusters, Independent Smart Contract auditor and Security Researcher👋
-
-<!--I'm a passionate software developer and open-source enthusiast. Welcome to my GitHub profile, where I share my projects and contributions to the community.-->
-
-<!-- Profile Picture -->
-# Wall of achievements 🥳
-
-| Overall issues | High risk | Unique highs | Medium risk | Unique mediums | Projects audited 
-| ---------------| ----------| -------------| ------------| ---------------| ----------------
-| 45             | 14        | 0            |  26          | 2              | 17              
-
-
-
-# Sherlock 
-
-## Audit Competitions
-| Contest          | High risk | Medium risk |  Security report | Payout   | Language |
-| -----------------| ----------| ------------| -----------------| ---------| ---------| 
-| Unstoppable      | 3         | 0           |  -               | $1924.18 | Vyper    | 
-| Hubble-exchange  | 0         | 3 (1 solo)  |  -               | $2,415.61| Solidity |  
-| Dodo             | -         | -           |  -               | -        | Solidity | 
-| Real-wagmi       | -         | -           |  -               | -        | Solidity | 
-| Index            | 0         | 5           |  -               | $123.58  | Solidity | 
-| Ironbank         | 0         | 4           |  -               | $104.39  | Solidity | 
-| USSD             | 4         | 5           |  -               | $28.91   | Solidity | 
-| Blueberry        | 1         | 1           |  15              | $518.78  | Solidity | 
-
-
-
-
-
-
-
-# Code4rena 
-
-## Audit Competitions
-| Contest                             | High risk | Medium risk |                        Security report                        | Payout       |  Language |
-| ------------------------------------| ----------| ------------|  -------------------------------------------------------------| -------------|-----------|
-| Asymmetry Finance                   | 2         |  2          |  [Report](https://code4rena.com/reports/2023-03-asymmetry)    | $85.96       | Solidity
-| Rubicon v2                          | 4         |  2          |   -                                                           | $826.54      | Solidity
-| Venus Protocol Isolated Pools       | -         |  1          |   -                                                           | $732.00      | Solidity
-| Maia DAO Ecosystem                  | -         |  2          |   -                                                           | $24.76       | Solidity  
-| Lybra Finance                       | -         |  1 (solo)   |   -                                                           | $1,444.45    | Solidity    
-| Amphora Protocol                    | -         |  -          |   -                                                           | -            | Solidity       
-| Arcade.xyz                          | -         |  -          |   -                                                           | -            | Solidity       
-
-
-
-
-# CodeHawks
-
-## Audit Competitions
-| Contest | High risk | Medium risk | Security report | Position | Payout | Language |
-| --------| ----------| ------------| ----------------| ---------| -------| ---------|
-| Beedle  | -         | -           |  -              | -        | -      | Solidity |
-
-
-<!--# Hats Finance
-
-## Audit Competitions
-| Contest | High risk | Medium risk | Security report | Position | Payout | Language |
-| --------| ----------| ------------| ----------------| ---------| -------| ---------|
-| 40      | 30        | 10          |  15             | 30       | 10     | 1        |-->
-
-<!-- GitHub Stats 
-## 📈 GitHub Stats-->
-
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabeel-javaid&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)-->
-
-<!-- Technologies & Tools 
-## 🛠️ Technologies & Tools
-
-- List some of the technologies and tools you use, e.g. languages, frameworks, etc.
--->
-<!-- Featured Repositories -->
-## 📚 Featured Issues (Solo)
-
-- [Issue 1](https://github.com/code-423n4/2023-06-lybra-findings/issues/484)
-- [Issue 2](https://github.com/sherlock-audit/2023-04-hubble-exchange-judging/issues/234)
-
-<!-- How to Reach Me -->
-## 📫 How to Reach me
-
-You can connect with me on:
-
-- [0xepley](https://twitter.com/0xepley)
-
-
-
-<!-- Footer -->
 ---
-<p align="center">
-  <!-- Add your other social media links or website here -->
-</p>
+import BaseLayout from "../layouts/BaseLayout.astro";
+import HorizontalCard from "../components/HorizontalCard.astro";
+---
 
+<BaseLayout title="Projects" sideBarActiveItemID="Stats">
+  <div class="container">
+    <div class="text-center">
+      <h1><strong>Wall of achievements 🥳</strong></h1>
+    </div>
+    <table class="table">
+      <thead>
+        <tr>
+          <th><strong>Overall issues</strong></th>
+          <th><strong>High risk</strong></th>
+          <th><strong>Unique highs</strong></th>
+          <th><strong>Medium risk</strong></th>
+          <th><strong>Unique mediums</strong></th>
+          <th><strong>Projects audited</strong></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>45</td>
+          <td>14</td>
+          <td>0</td>
+          <td>26</td>
+          <td>2</td>
+          <td>17</td>
+        </tr>
+      </tbody>
+    </table>
 
-<!--
-**Nabeel-javaid/Nabeel-javaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <br />
+    <br />
+    <div class="text-center">
+      <h1><strong>Sherlock</strong></h1>
+    </div>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Contest</th>
+          <th>High risk</th>
+          <th>Medium risk</th>
+          <th>Security report</th>
+          <th>Payout</th>
+          <th>Language</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Unstoppable</td>
+          <td>3</td>
+          <td>0</td>
+          <td>-</td>
+          <td>$1924.18</td>
+          <td>Vyper</td>
+        </tr>
+        <tr>
+          <td>Hubble-exchange</td>
+          <td>0</td>
+          <td>3 (1 solo)</td>
+          <td>-</td>
+          <td>$2,415.61</td>
+          <td>Solidity</td>
+        </tr>
+        <tr>
+          <td>Dodo</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>Solidity</td>
+        </tr>
+        <tr>
+          <td>Real-wagmi</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>Solidity</td>
+        </tr>
+        <tr>
+          <td>Index</td>
+          <td>0</td>
+          <td>5</td>
+          <td>-</td>
+          <td>$123.58</td>
+          <td>Solidity</td>
+        </tr>
+        <tr>
+          <td>Ironbank</td>
+          <td>0</td>
+          <td>4</td>
+          <td>-</td>
+          <td>$104.39</td>
+          <td>Solidity</td>
+        </tr>
+        <tr>
+          <td>USSD</td>
+          <td>4</td>
+          <td>5</td>
+          <td>-</td>
+          <td>$28.91</td>
+          <td>Solidity</td>
+        </tr>
+        <tr>
+          <td>Blueberry</td>
+          <td>1</td>
+          <td>1</td>
+          <td>15</td>
+          <td>$518.78</td>
+          <td>Solidity</td>
+        </tr>
+      </tbody>
+    </table>
 
-Here are some ideas to get you started:
+    <br />
+    <br />
+    <div class="text-center">
+      <h1><strong>Code4rena</strong></h1>
+    </div>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Contest</th>
+          <th>High risk</th>
+          <th>Medium risk</th>
+          <th>Security report</th>
+          <th>Payout</th>
+          <th>Language</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Asymmetry Finance</td>
+          <td>2</td>
+          <td>2</td>
+          <td
+            ><a href="https://code4rena.com/reports/2023-03-asymmetry">Report</a
+            ></td
+          >
+          <td>$85.96</td>
+          <td>Solidity</td>
+        </tr>
+        <tr>
+          <td>Rubicon v2</td>
+          <td>4</td>
+          <td>2</td>
+          <td>-</td>
+          <td>$826.54</td>
+          <td>Solidity</td>
+        </tr>
+        <tr>
+          <td>Venus Protocol Isolated Pools</td>
+          <td>-</td>
+          <td>1</td>
+          <td>-</td>
+          <td>$732.00</td>
+          <td>Solidity</td>
+        </tr>
+        <tr>
+          <td>Maia DAO Ecosystem</td>
+          <td>-</td>
+          <td>2</td>
+          <td>-</td>
+          <td>$24.76</td>
+          <td>Solidity</td>
+        </tr>
+        <tr>
+          <td>Lybra Finance</td>
+          <td>-</td>
+          <td>1 (solo)</td>
+          <td>-</td>
+          <td>$1,444.45</td>
+          <td>Solidity</td>
+        </tr>
+        <tr>
+          <td>Amphora Protocol</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>Solidity</td>
+        </tr>
+        <tr>
+          <td>Arcade.xyz</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>Solidity</td>
+        </tr>
+      </tbody>
+    </table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <br />
+    <br />
+    <!-- ... CodeHawks table ... -->
+    <div class="text-center">
+      <h1><strong>CodeHawks</strong></h1>
+    </div>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Contest</th>
+          <th>High risk</th>
+          <th>Medium risk</th>
+          <th>Security report</th>
+          <th>Payout</th>
+          <th>Language</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Beedle</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>Solidity</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <br />
+    <br />
+    <div class="text-center">
+      <h1 class="mb-4 font-weight-bold">Solo Issues</h1>
+    </div>
+    <ul class="list-unstyled">
+      <li>
+        <a
+          href="https://github.com/code-423n4/2023-06-lybra-findings/issues/484"
+          class="text-primary">Issue 1</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://github.com/sherlock-audit/2023-04-hubble-exchange-judging/issues/234"
+          class="text-primary">Issue 2</a
+        >
+      </li>
+    </ul>
+  </div>
+
+  <style>
+    /* Add the following CSS to style the links */
+    .text-primary {
+      color: white;
+    }
+  </style>
+</BaseLayout>
