@@ -83,12 +83,11 @@
 - [Issue 2](https://github.com/sherlock-audit/2023-04-hubble-exchange-judging/issues/234)
 
 <!-- How to Reach Me -->
-## 📫 How to Reach us
+## 📫 How to Reach me
 
 You can connect with us on:
 
 - [0xepley](https://twitter.com/0xepley)
-- [0xNirlin](https://twitter.com/0xnirlin)
 
 
 
