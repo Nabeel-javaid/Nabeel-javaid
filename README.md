@@ -66,10 +66,10 @@
 | --------| ----------| ------------| ----------------| ---------| -------| ---------|
 | 40      | 30        | 10          |  15             | 30       | 10     | 1        |-->
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats 
  📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabeel-javaid&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabeel-javaid&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)-->
 
 <!-- Technologies & Tools 
 ## 🛠️ Technologies & Tools
@@ -83,15 +83,14 @@
 - [Issue 2](https://github.com/sherlock-audit/2023-04-hubble-exchange-judging/issues/234)-->
 
 <!-- How to Reach Me -->
-## 📫 How to Reach us
+## 📫 How to Reach me
 
-You can connect with us on:
+You can connect with me on:
 
 - [0xepley](https://twitter.com/0xepley)
 
 
 
--- Footer --
 ---
 <p align="center">
   This is the audit profile of me and my team-member together
