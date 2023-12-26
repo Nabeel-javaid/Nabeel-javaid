@@ -92,10 +92,10 @@ You can connect with us on:
 
 
 
-<!-- Footer -->
+-- Footer --
 ---
 <p align="center">
-  <!-- Add your other social media links or website here -->
+  This is the audit profile of me and my team-member together
 </p>
 
 
