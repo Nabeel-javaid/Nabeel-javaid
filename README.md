@@ -34,14 +34,17 @@
 # Code4rena 
 
 ## Audit Competitions
-| Contest                             | High risk | Medium risk |                        Security report                        |  Language |
-| ------------------------------------| ----------| ------------|  -------------------------------------------------------------|-----------|
-| Asymmetry Finance                   | 2         |  2          |  [Report](https://code4rena.com/reports/2023-03-asymmetry)    | Solidity
-| Venus Protocol Isolated Pools       | -         |  1          |   -                                                           | Solidity
-| Chainlink Cross-Chain Services      | 1         |  -          |   -                                                           | Solidity   
-| Maia DAO Ecosystem                  | -         |  2          |   -                                                           | Solidity    
-| Amphora Protocol                    | -         |  -          |   -                                                           | Solidity  
-| KeloDai                             | -         |  -          |   -                                                           | Solidity  
+| Contest                             | High risk | Medium risk | Analysis Report | QA Report  |                       Security report                        |  Language |
+| ------------------------------------| ----------| ------------| -----------------|-----------| -------------------------------------------------------------|-----------|
+| Asymmetry Finance                   | 2         |  2          | -                | -         | [Report](https://code4rena.com/reports/2023-03-asymmetry)    | Solidity
+| Venus Protocol Isolated Pools       | -         |  1          | -                | -         | [Report](https://code4rena.com/reports/2023-05-venus)        | Solidity
+| Chainlink Staking v0.2              | -         |  -          | Grade B          | -         | -                                                            | Solidity   
+| Maia DAO Ecosystem                  | -         |  2          | -                | -         | [Report](https://code4rena.com/reports/2023-05-maia)         | Solidity   
+| KelpDao                             | -         |  -          | Grade A          | Grade B   | [Report](https://code4rena.com/reports/2023-11-kelp)         | Solidity 
+| Shell Protocol                      | -         |  -          | Grade B          | -         | -                                                            | Solidity 
+| Canto                               | -         |  -          | Grade B          | -         | [Report](https://code4rena.com/reports/2023-11-canto)        | Solidity 
+
+
 
 
 
@@ -50,21 +53,23 @@
 # CodeHawks
 
 ## Audit Competitions
-| Contest   | High risk | Medium risk |  low risk   | Security report | Language |
-| --------  | ----------| ------------| ------------| ----------------| ---------|
-| Beedle    | 2         | 3           |  -          | -               | Solidity |
-| DittoETH  | -         | -           |  3          | -               | Solidity |
+| Contest   | High risk | Medium risk | Low risk | Security report                                                          |  Language |
+| --------  | ----------| ------------| ---------| -----------------------------------------------------------              |-----------|
+| Beedle    | 2         | 3           | -        | [Report](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx)     | Solidity |
+| DittoETH  | -         | -           | 3        | [Report](https://www.codehawks.com/report/clm871gl00001mp081mzjdlwc)     | Solidity |
+
+
 
 
 # CodeHawks First Flight
 
 ## Audit Competitions
-| Contest   | High risk | Medium risk |  low risk   | Security report | Language |
-| --------  | ----------| ------------| ------------| ----------------| ---------|
-| PasswordStore    | 1         | 2           |  -          | -               | Solidity |
-| Puppy Raffle  | 1         | 3           |  -          | -               | Solidity |
-| Boss Bridge  | 3         | -           |  1          | -               | Solidity |
-| Santa's List  | 1         | -           |  1          | -               | Solidity |
+| Contest         | High risk | Medium risk | Low risk | Security report |  Language |
+| --------------  | ----------| ------------| ---------| ----------------|-----------|
+| PasswordStore   | 1         | 2           | -        | -               | Solidity |
+| Puppy Raffle    | 1         | 3           | -        | -               | Solidity |
+| Boss Bridge     | 3         | -           | 1        | -               | Solidity |
+| Santa's List    | 1         | -           | 1        | -               | Solidity |
 
 
 
