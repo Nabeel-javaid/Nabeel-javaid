@@ -18,12 +18,12 @@
 ## Audit Competitions
 | Contest          | High risk | Medium risk |  Security report | Language |
 | -----------------| ----------| ------------| -----------------| ---------| 
-| Dodo             | -         | -           |  -               | Solidity | 
-| Real-wagmi       | -         | -           |  -               | Solidity | 
-| Index            | 0         | 5           |  -               | Solidity | 
-| Ironbank         | 0         | 4           |  -               | Solidity | 
-| USSD             | 4         | 5           |  -               | Solidity | 
-| Blueberry        | 1         | 1           |  15              | Solidity |
+| Dodo V3          | -         | 1           |  [Report](https://audits.sherlock.xyz/contests/89/report)               | Solidity | 
+| Real-wagmi       | 1         | 2           |  [Report](https://audits.sherlock.xyz/contests/88/report)               | Solidity | 
+| Index            | 0         | 5           |  [Report](https://audits.sherlock.xyz/contests/81/report)               | Solidity | 
+| Ironbank         | 0         | 4           |  [Report](https://audits.sherlock.xyz/contests/84/report)               | Solidity | 
+| USSD             | 4         | 5           |  [Report](https://audits.sherlock.xyz/contests/82/report)               | Solidity | 
+| Blueberry        | 1         | 1           |  [Report](https://audits.sherlock.xyz/contests/69/report)               | Solidity |
 
 
 
@@ -40,7 +40,7 @@
 | Venus Protocol Isolated Pools       | -         |  1          | -                | -         | [Report](https://code4rena.com/reports/2023-05-venus)        | Solidity
 | Chainlink Staking v0.2              | -         |  -          | Grade B          | -         | -                                                            | Solidity   
 | Maia DAO Ecosystem                  | -         |  2          | -                | -         | [Report](https://code4rena.com/reports/2023-05-maia)         | Solidity   
-| KelpDao                             | -         |  -          | Grade A          | Grade B   | [Report](https://code4rena.com/reports/2023-11-kelp)         | Solidity 
+| KelpDao                             | 1         |  -          | Grade A          | Grade B   | [Report](https://code4rena.com/reports/2023-11-kelp)         | Solidity 
 | Shell Protocol                      | -         |  -          | Grade B          | -         | -                                                            | Solidity 
 | Canto                               | -         |  -          | Grade B          | -         | [Report](https://code4rena.com/reports/2023-11-canto)        | Solidity 
 
@@ -66,10 +66,10 @@
 ## Audit Competitions
 | Contest         | High risk | Medium risk | Low risk | Security report |  Language |
 | --------------  | ----------| ------------| ---------| ----------------|-----------|
-| PasswordStore   | 1         | 2           | -        | -               | Solidity |
-| Puppy Raffle    | 1         | 3           | -        | -               | Solidity |
-| Boss Bridge     | 3         | -           | 1        | -               | Solidity |
-| Santa's List    | 1         | -           | 1        | -               | Solidity |
+| PasswordStore   | 1         | -           | -        | [Report](https://www.codehawks.com/report/clnuo221v0001l50aomgo4nyn)               | Solidity |
+| Puppy Raffle    | 1         | 3           | -        | [Report](https://www.codehawks.com/report/clo383y5c000jjx087qrkbrj8)               | Solidity |
+| Boss Bridge     | 3         | -           | 1        | [Report](https://www.codehawks.com/report/clomptuvr0001ie09bzfp4nqw)               | Solidity |
+| Santa's List    | 1         | -           | 1        | [Report](https://www.codehawks.com/report/clpba0ama0001ywpabex01hrp)               | Solidity 
 
 
 
