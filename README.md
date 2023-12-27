@@ -7,9 +7,9 @@
 <!-- Profile Picture -->
 # Wall of achievements 🥳
 
-| Overall issues | High risk | Unique highs | Medium risk | Unique mediums | Projects audited 
-| ---------------| ----------| -------------| ------------| ---------------| ----------------
-| 45             | 16        | 0            |  29          | 2              | 17              
+| Overall issues | High risk | Medium risk | low risk | Projects audited 
+| ---------------| ----------| ------------| ---------|----------------
+| 45             | 17        |  29         | 5        |      19              
 
 
 
