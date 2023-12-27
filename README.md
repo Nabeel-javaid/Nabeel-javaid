@@ -16,17 +16,14 @@
 # Sherlock 
 
 ## Audit Competitions
-| Contest          | High risk | Medium risk |  Security report | Payout   | Language |
-| -----------------| ----------| ------------| -----------------| ---------| ---------| 
-| Unstoppable      | 3         | 0           |  -               | $1924.18 | Vyper    | 
-| Hubble-exchange  | 0         | 3 (1 solo)  |  -               | $2,415.61| Solidity |  
-| Dodo             | -         | -           |  -               | -        | Solidity | 
-| Real-wagmi       | -         | -           |  -               | -        | Solidity | 
-| Index            | 0         | 5           |  -               | $123.58  | Solidity | 
-| Ironbank         | 0         | 4           |  -               | $104.39  | Solidity | 
-| USSD             | 4         | 5           |  -               | $28.91   | Solidity | 
-| Blueberry        | 1         | 1           |  15              | $518.78  | Solidity | 
-| Y2K              | 1         | 3           |  [Report](https://github.com/sherlock-audit/2023-03-Y2K-judging/blob/main/Audit_Report.pdf)              | $230.12  | Solidity | 
+| Contest          | High risk | Medium risk |  Security report | Language |
+| -----------------| ----------| ------------| -----------------| ---------| 
+| Dodo             | -         | -           |  -               | Solidity | 
+| Real-wagmi       | -         | -           |  -               | Solidity | 
+| Index            | 0         | 5           |  -               | Solidity | 
+| Ironbank         | 0         | 4           |  -               | Solidity | 
+| USSD             | 4         | 5           |  -               | Solidity | 
+| Blueberry        | 1         | 1           |  15              | Solidity |
 
 
 
@@ -37,16 +34,15 @@
 # Code4rena 
 
 ## Audit Competitions
-| Contest                             | High risk | Medium risk |                        Security report                        | Payout       |  Language |
-| ------------------------------------| ----------| ------------|  -------------------------------------------------------------| -------------|-----------|
-| Asymmetry Finance                   | 2         |  2          |  [Report](https://code4rena.com/reports/2023-03-asymmetry)    | $85.96       | Solidity
-| Rubicon v2                          | 4         |  2          |   -                                                           | $826.54      | Solidity
-| Venus Protocol Isolated Pools       | -         |  1          |   -                                                           | $732.00      | Solidity
-| Chainlink Cross-Chain Services      | 1         |  -          |   -                                                           | $201.79      | Solidity   
-| Maia DAO Ecosystem                  | -         |  2          |   -                                                           | $24.76       | Solidity  
-| Lybra Finance                       | -         |  1 (solo)   |   -                                                           | $1,444.45    | Solidity    
-| Amphora Protocol                    | -         |  -          |   -                                                           | -            | Solidity       
-| Arcade.xyz                          | -         |  -          |   -                                                           | -            | Solidity       
+| Contest                             | High risk | Medium risk |                        Security report                        |  Language |
+| ------------------------------------| ----------| ------------|  -------------------------------------------------------------|-----------|
+| Asymmetry Finance                   | 2         |  2          |  [Report](https://code4rena.com/reports/2023-03-asymmetry)    | Solidity
+| Venus Protocol Isolated Pools       | -         |  1          |   -                                                           | Solidity
+| Chainlink Cross-Chain Services      | 1         |  -          |   -                                                           | Solidity   
+| Maia DAO Ecosystem                  | -         |  2          |   -                                                           | Solidity    
+| Amphora Protocol                    | -         |  -          |   -                                                           | Solidity  
+| KeloDai                             | -         |  -          |   -                                                           | Solidity  
+
 
 
 
@@ -54,9 +50,25 @@
 # CodeHawks
 
 ## Audit Competitions
-| Contest | High risk | Medium risk | Security report | Position | Payout | Language |
-| --------| ----------| ------------| ----------------| ---------| -------| ---------|
-| Beedle  | -         | -           |  -              | -        | -      | Solidity |
+| Contest   | High risk | Medium risk |  low risk   | Security report | Language |
+| --------  | ----------| ------------| ------------| ----------------| ---------|
+| Beedle    | 2         | 3           |  -          | -               | Solidity |
+| DittoETH  | -         | -           |  3          | -               | Solidity |
+
+
+# CodeHawks First Flight
+
+## Audit Competitions
+| Contest   | High risk | Medium risk |  low risk   | Security report | Language |
+| --------  | ----------| ------------| ------------| ----------------| ---------|
+| PasswordStore    | 1         | 2           |  -          | -               | Solidity |
+| Puppy Raffle  | 1         | 3           |  -          | -               | Solidity |
+| Boss Bridge  | 3         | -           |  1          | -               | Solidity |
+| Santa's List  | 1         | -           |  1          | -               | Solidity |
+
+
+
+
 
 
 <!--# Hats Finance
@@ -93,7 +105,7 @@ You can connect with me on:
 
 ---
 <p align="center">
-  This is the audit profile of me and my team-member together
+  Fee free to reach out to me for more information
 </p>
 
 
