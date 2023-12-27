@@ -9,7 +9,7 @@
 
 | Overall issues | High risk | Medium risk | low risk | Projects audited 
 | ---------------| ----------| ------------| ---------|----------------
-| 45             | 17        |  29         | 5        |      19              
+| 51             | 17        |  29         | 5        |      19              
 
 
 
