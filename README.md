@@ -1,3 +1,6 @@
+# 🛠️ DittoETH
+**A decentralized stablecoin protocol with an order book design for supercharged staking yield.**
+
 ## Conceptual Overview of Ditto ETH Protocol:
 
 Ditto ETH Protocol is a decentralized finance (DeFi) platform designed to facilitate the creation and trading of synthetic assets pegged to the value of real-world assets. At its core, Ditto ETH employs a unique mechanism that allows users to mint and trade synthetic tokens representing various assets, such as cryptocurrencies, fiat currencies, and commodities, directly on the Ethereum blockchain.
@@ -236,6 +239,114 @@ In DittoETH, several calculations are involved in various aspects of the protoco
 6. **Liquidation Penalty Calculation**: In the event of liquidations, a penalty may be applied to undercollateralized positions to cover potential losses incurred by the protocol. The calculation of liquidation penalties involves determining the amount of the penalty based on factors such as the severity of the undercollateralization and the protocol's risk parameters.
 
 Overall, these calculations play a crucial role in the functioning of DittoETH, ensuring accurate pricing, risk assessment, and fee management within the protocol. They are implemented using predefined formulas, algorithms, and protocol parameters to maintain the integrity and efficiency of the system.
+
+
+## Test analysis
+
+```sh
+git clone https://github.com/code-423n4/2024-03-dittoeth
+cd 2024-03-dittoeth
+
+# For node: use volta to get node/npm
+curl https://get.volta.sh | bash
+volta install node
+
+# Use Bun to run TypeScript
+curl -fsSL https://bun.sh/install | bash
+
+# download files from package.json into node_modules
+npm install
+
+# Install foundry for solidity
+curl -L https://foundry.paradigm.xyz | bash
+# project as a `npm run prebuild` check for foundry version
+foundryup -v nightly-5b7e4cb3c882b28f3c32ba580de27ce7381f415a
+
+# .env for tests
+echo 'ANVIL_9_PRIVATE_KEY=0x2a871d0798f97d79848a013d4936a73bf4cc922c825d33c1cf7073dff6d409c6' >> .env
+echo 'MAINNET_RPC_URL=http://eth.drpc.org' >> .env
+
+
+# build
+bun run build
+
+# unit/fork/invariant tests
+bun run test
+
+# gas tests, check `/.gas.json`
+bun run test-gas
+
+# invariant tests only
+bun run invariant
+
+# run coverage from scratch
+bun run coverage
+
+# view coverage as is (brew install lcov)
+genhtml \
+        --output-directory coverage \
+        filtered-lcov.info
+open coverage/index.html
+
+
+```
+
+- `bun run` to check commands
+- To run local node: `bun run anvil-fork`, then deploy with `bun run deploy-local`
+- `bun run interfaces` to re-compile solidity interfaces to `interfaces/`
+- `bun run build` to compile contracts, foundry cache in `foundry/`
+
+
+- `bun run test`
+  - `-- --vv` for verbosity
+  - `-- --watch` to watch files
+  - `-- -m testX` to match tests
+- `bun run test-fork`: gas fork tests read from `MAINNET_RPC_URL`
+- `bun run test-gas` for gas tests, reads `test-gas/`, writes gas to `.gas.json`
+- `bun run coverage` (first `brew install lcov`)
+
+
+### What did the project do differently? ;
+-   1) It can be said that the developers of the project did a quality job, there is a test structure consisting of tests with quality content. In particular, tests have been written successfully.
+
+-   2) Overall line coverage percentage provided by your tests : 85%
+
+### What could they have done better?
+
+-  1): It is recommended to increase the test coverage to 100% so make sure that each and every line is battle tested
+
+## Security Approach of the Project
+
+### Successful current security understanding of the project;
+
+1- The project has already underwent an [Audits](https://www.codehawks.com/contests/clm871gl00001mp081mzjdlwc)
+
+### What the project should add in the understanding of Security;
+
+1- After the Code4rena audit is completed and the project is live, I recommend the audit process to continue, projects like immunefi do this. 
+https://immunefi.com/
+
+2- Emergency Action Plan
+In a high-level security approach, there should be a crisis handbook like the one below and the strategic members of the project should be trained on this subject and drills should be carried out. Naturally, this information and road plan will not be available to the public.
+https://docs.google.com/document/u/0/d/1DaAiuGFkMEMMiIuvqhePL5aDFGHJ9Ya6D04rdaldqC0/mobilebasic#h.27dmpkyp2k1z
+
+3- I also recommend that you have an "Economic Audit" for projects based on such complex mathematics and economic models. An example Economic Audit is provided in the link below;
+Economic Audit with [Three Sigma](https://panoptic.xyz/blog/panoptic-three-sigma-partnership)
+
+4 - As the project team, you can consider applying the multi-stage audit model.
+
+[![sla.png](https://i.postimg.cc/nhR0kN3w/sla.png)](https://postimg.cc/Sn96Q1FW)
+
+Read more about the MPA model;
+https://mpa.solodit.xyz/
+
+5 - I recommend having a masterplan applied to project team members (This information is not included in the documents).
+All authorizations, including NPM passwords and authorizations, should be reserved only for current employees. I also recommend that a definitive security constitution project be found for employees to protect these passwords with rules such as 2FA. The LEDGER hack, which has made a big impact recently, is the best example in this regard;
+
+https://twitter.com/Ledger/status/1735326240658100414?t=UAuzoir9uliXplerqP-Ing&s=19
+
+
+
 
 ## Comprehensive diagram 
 <br/>
