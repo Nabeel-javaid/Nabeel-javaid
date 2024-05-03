@@ -6,9 +6,9 @@
 
 <!-- Profile Picture -->
 # Wall of achievements 🥳
- Projects audited 
-----------------
- | 22              
+| Projects Audited |
+|------------------|
+| 22               |
 
 
 
