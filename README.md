@@ -6,18 +6,17 @@
 
 <!-- Profile Picture -->
 # Wall of achievements 🥳
-
-| Overall issues | High risk | Unique highs | Medium risk | Unique mediums | Projects audited 
-| ---------------| ----------| -------------| ------------| ---------------| ----------------
-| 45             | 16        | 0            |  29          | 2              | 17              
-
+ Projects audited 
+----------------
+ | 22              
 
 
-## Presently holding the 361th position on the all-time leaderboard of Sherlock.
 
-## Ranked 324th on the leaderboard of Code4rena for the year 2023
+### Presently holding the 361th position on the all-time leaderboard of Sherlock.
 
-# Presently holding top 150th position on the all-time leaderboard of CodeHawks
+### Ranked 324th on the leaderboard of Code4rena for the year 2023
+
+### Presently holding top 150th position on the all-time leaderboard of CodeHawks
 
 
 # Private Audits
