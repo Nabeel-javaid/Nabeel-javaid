@@ -3,9 +3,9 @@
 # 🎬 Hello, This is 0xepley - Smart Contract Security Researcher
 
 ## Professional Experience
-- Over a year of experience in smart contract security auditing, securing awesome position in multiple contests across various domains including lending and borrowing, cross-chain bridges, insurance protocols, stable coins, and more. This consistent success demonstrates a broad and deep understanding of different blockchain technologies and problem-solving skills.
+- Over a year of experience in smart contract security auditing, securing awesome positions in multiple contests across various domains including lending and borrowing, cross-chain bridges, insurance protocols, stable coins, and more. This consistent success demonstrates a broad and deep understanding of different blockchain technologies and problem-solving skills.
 
-- Content strategist at sherlock.
+- Security expert at Hashlock
 
 ## Technical Skills
 - Languages: Solidity, JS, C++, react
