@@ -13,11 +13,11 @@
 
 
 
-## Presently holding the 111th position on the all-time leaderboard of Sherlock
+## Presently holding the 361th position on the all-time leaderboard of Sherlock.
 
-## Ranked 314th on the leaderboard of Code4rena for the year 2023
+## Ranked 324th on the leaderboard of Code4rena for the year 2023
 
-# CodeHawks
+# Presently holding top 150th position on the all-time leaderboard of CodeHawks
 
 
 # Private Audits
