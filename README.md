@@ -1,6 +1,6 @@
 
 <!-- Your Name and Introduction -->
-# 🎬 Hello, This is )xepley - Smart Contract Security Researcher
+# 🎬 Hello, This is 0xepley - Smart Contract Security Researcher
 
 ## Professional Experience
 - Over a year of experience in smart contract security auditing, securing awesome position in multiple contests across various domains including lending and borrowing, cross-chain bridges, insurance protocols, stable coins, and more. This consistent success demonstrates a broad and deep understanding of different blockchain technologies and problem-solving skills.
@@ -86,7 +86,7 @@ Successfully created a comprehensive blockchain based Web Application that allow
 
 You can connect me at:
 
-- [0xNirlin](https://twitter.com/0xepley)
+- [0xepley](https://twitter.com/0xepley)
 - [Email](nabeeljaved944@gmail.com)
 
 
