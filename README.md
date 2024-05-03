@@ -1,36 +1,63 @@
 
 <!-- Your Name and Introduction -->
-# Hello, I'm 0xepley👋
+# 🎬 Hello, This is )xepley - Smart Contract Security Researcher
+
+## Professional Experience
+- Over a year of experience in smart contract security auditing, securing awesome position in multiple contests across various domains including lending and borrowing, cross-chain bridges, insurance protocols, stable coins, and more. This consistent success demonstrates a broad and deep understanding of different blockchain technologies and problem-solving skills.
+
+- Content strategist at sherlock.
+
+## Technical Skills
+- Languages: Solidity, JS, C++, react
+- Tools & Platforms: Foundry, Ethereum
+
+
 
 <!--I'm a passionate software developer and open-source enthusiast. Welcome to my GitHub profile, where I share my projects and contributions to the community.-->
 
 <!-- Profile Picture -->
-# Wall of achievements 🥳
-| Projects Audited |
-|------------------|
-| 22               |
+# 🏅 Achievements Across Multiple Contest Platforms
+
+The following numbers can be verified from the code4rena and Sherlock leaderboard under my name 0xepley(Sherlock+c4), Bugbusters(Team with a friend) (Sherlock + c4).
+
+Not including any accepted low findings, QA reports, and analysis reports here, only impactful findings. 
+
+| Overall issues | High risk | Medium risk | 
+| ---------------| ----------| ------------| 
+| 71             | 25        |   46        |          
+
+**[Second position in secureum race-18](https://discord.com/channels/814328279468474419/927065287172427798/1112616229602070560)**
 
 
+# Sherlock + Code4rena
 
-### Presently holding the 361th position on the all-time leaderboard of Sherlock.
+## ⚔️ Audit Competitions
 
-### Ranked 324th on the leaderboard of Code4rena for the year 2023
+#### Presently holding the 361th position on the all-time leaderboard of Sherlock.
+#### Ranked 324th on the leaderboard of Code4rena for the year 2023
+#### Presently holding top 150th position on the all-time leaderboard of CodeHawks
 
-### Presently holding top 150th position on the all-time leaderboard of CodeHawks
-
-
-# Private Audits
-
-| No. | Project Name    |
-|-----|-----------------|
-| 1   | TradeShare      |
-| 2   | Savva           |
-| 3   | Digital-x Vault |
-| 4   | Blockchat-dao   |
-| 5   | Arm-swap        |
+## Private and Team Engagements
 
 
+## Private Engagements
 
+| Project                                             | Type                | Date           | 
+|-----------------------------------------------------|---------------------|----------------|
+| [TradeShare](https://tradeshare.com/)               | Lending and borrowing  | March, 2024 | 
+| [Arm swap](https://www.armswap.com/)  | Cross chain bridge                 | March, 2024 | 
+| [Blockchat-dao](https://blockchatdao.com/)       Social Platform         |   | May, 2024    | 
+| [Savva](https://savva.app/)            | Social Network      | April, 2024    | 
+| [Digital-x Art Vault](https://www.digitalx.com/)     DEFI                                   | Liquid Restaking Protocol    | April, 2024    |
+
+
+## Personal Projects and Contributions
+Successfully created a comprehensive blockchain based Web Application that allows users to lend and borrow money in a decentralized manner.
+
+## Interests
+- Web3 Security
+- Blockchain Development and secuirty
+- Zero Knowledge Proofs
 
 <!--# Hats Finance
 
@@ -39,34 +66,35 @@
 | --------| ----------| ------------| ----------------| ---------| -------| ---------|
 | 40      | 30        | 10          |  15             | 30       | 10     | 1        |-->
 
-GitHub Stats 
- 📈 GitHub Stats
+<!-- GitHub Stats 
+## 📈 GitHub Stats-->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabeel-javaid&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabeel-javaid&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)-->
 
 <!-- Technologies & Tools 
 ## 🛠️ Technologies & Tools
 
 - List some of the technologies and tools you use, e.g. languages, frameworks, etc.
 -->
-<!-- Featured Repositories 
-## 📚 Featured Issues (Solo)
+<!-- Featured Repositories -->
 
-- [Issue 1](https://github.com/code-423n4/2023-06-lybra-findings/issues/484)
-- [Issue 2](https://github.com/sherlock-audit/2023-04-hubble-exchange-judging/issues/234)-->
+## Education
+- FAST-National University of Computer and Emerging Sciences
 
 <!-- How to Reach Me -->
-## 📫 How to Reach me
+## 📫 How to Reach Me
 
-You can connect with me on:
+You can connect me at:
 
-- [0xepley](https://twitter.com/0xepley)
+- [0xNirlin](https://twitter.com/0xepley)
+- [Email](nabeeljaved944@gmail.com)
 
 
 
+<!-- Footer -->
 ---
 <p align="center">
-  Fee free to reach out to me for more information
+  <!-- Add your other social media links or website here -->
 </p>
 
 
