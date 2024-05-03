@@ -20,11 +20,7 @@
 
 The following numbers can be verified from the code4rena and Sherlock leaderboard under my name 0xepley(Sherlock+c4), Bugbusters(Team with a friend) (Sherlock + c4).
 
-Not including any accepted low findings, QA reports, and analysis reports here, only impactful findings. 
-
-| Overall issues | High risk | Medium risk | 
-| ---------------| ----------| ------------| 
-| 71             | 25        |   46        |          
+    ### Found total of 60+ bugs in various smart contracts  
 
 **[Second position in secureum race-18](https://discord.com/channels/814328279468474419/927065287172427798/1112616229602070560)**
 
