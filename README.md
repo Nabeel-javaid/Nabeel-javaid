@@ -46,9 +46,9 @@ Not including any accepted low findings, QA reports, and analysis reports here, 
 |-----------------------------------------------------|---------------------|----------------|
 | [TradeShare](https://tradeshare.com/)               | Lending and borrowing  | March, 2024 | 
 | [Arm swap](https://www.armswap.com/)  | Cross chain bridge                 | March, 2024 | 
-| [Blockchat-dao](https://blockchatdao.com/)       Social Platform         |   | May, 2024    | 
+| [Blockchat-dao](https://blockchatdao.com/)      | Social Platform            | May, 2024    | 
 | [Savva](https://savva.app/)            | Social Network      | April, 2024    | 
-| [Digital-x Art Vault](https://www.digitalx.com/)     DEFI                                   | Liquid Restaking Protocol    | April, 2024    |
+| [Digital-x Art Vault](https://www.digitalx.com/)     | DEFI                                      | April, 2024    |
 
 
 ## Personal Projects and Contributions
