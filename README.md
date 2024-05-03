@@ -13,66 +13,20 @@
 
 
 
-# Sherlock 
+## Presently holding the 111th position on the all-time leaderboard of Sherlock
 
-## Audit Competitions
-| Contest          | High risk | Medium risk |  Security report | Language |
-| -----------------| ----------| ------------| -----------------| ---------| 
-| Dodo             | -         | -           |  -               | Solidity | 
-| Real-wagmi       | -         | -           |  -               | Solidity | 
-| Index            | 0         | 5           |  -               | Solidity | 
-| Ironbank         | 0         | 4           |  -               | Solidity | 
-| USSD             | 4         | 5           |  -               | Solidity | 
-| Blueberry        | 1         | 1           |  15              | Solidity |
-
-
-
-
-
-
-
-# Code4rena 
-
-## Audit Competitions
-| Contest                             | High risk | Medium risk | Analysis Report | QA Report  |                       Security report                        |  Language |
-| ------------------------------------| ----------| ------------| -----------------|-----------| -------------------------------------------------------------|-----------|
-| Asymmetry Finance                   | 2         |  2          | -                | -         | [Report](https://code4rena.com/reports/2023-03-asymmetry)    | Solidity
-| Venus Protocol Isolated Pools       | -         |  1          | -                | -         | [Report](https://code4rena.com/reports/2023-05-venus)        | Solidity
-| Chainlink Staking v0.2              | -         |  -          | Grade B          | -         | -                                                            | Solidity   
-| Maia DAO Ecosystem                  | -         |  2          | -                | -         | [Report](https://code4rena.com/reports/2023-05-maia)         | Solidity   
-| KelpDao                             | -         |  -          | Grade A          | Grade B   | [Report](https://code4rena.com/reports/2023-11-kelp)         | Solidity 
-| Shell Protocol                      | -         |  -          | Grade B          | -         | -                                                            | Solidity 
-| Canto                               | -         |  -          | Grade B          | -         | [Report](https://code4rena.com/reports/2023-11-canto)        | Solidity 
-
-
-
-
-
-
+## Ranked 314th on the leaderboard of Code4rena for the year 2023
 
 # CodeHawks
 
-## Audit Competitions
-| Contest   | High risk | Medium risk | Low risk | Security report                                                          |  Language |
-| --------  | ----------| ------------| ---------| -----------------------------------------------------------              |-----------|
-| Beedle    | 2         | 3           | -        | [Report](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx)     | Solidity |
-| DittoETH  | -         | -           | 3        | [Report](https://www.codehawks.com/report/clm871gl00001mp081mzjdlwc)     | Solidity |
 
-
-
-
-# CodeHawks First Flight
-
-## Audit Competitions
-| Contest         | High risk | Medium risk | Low risk | Security report |  Language |
-| --------------  | ----------| ------------| ---------| ----------------|-----------|
-| PasswordStore   | 1         | 2           | -        | -               | Solidity |
-| Puppy Raffle    | 1         | 3           | -        | -               | Solidity |
-| Boss Bridge     | 3         | -           | 1        | -               | Solidity |
-| Santa's List    | 1         | -           | 1        | -               | Solidity |
-
-
-
+# Private Audits
+Till now I've done 5 private audits and working on 6th. Following are the names of Projects i've audited
+1): TradeShare
+2): Savva
+3): Digital-x Vault
+4): Blockchat-dao
+5): Arm-swap
 
 
 
@@ -83,10 +37,10 @@
 | --------| ----------| ------------| ----------------| ---------| -------| ---------|
 | 40      | 30        | 10          |  15             | 30       | 10     | 1        |-->
 
-<!-- GitHub Stats 
+GitHub Stats 
  📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabeel-javaid&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabeel-javaid&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
 
 <!-- Technologies & Tools 
 ## 🛠️ Technologies & Tools
