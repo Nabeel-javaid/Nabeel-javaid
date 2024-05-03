@@ -20,12 +20,15 @@
 
 
 # Private Audits
-Till now I've done 5 private audits and working on 6th. Following are the names of Projects i've audited
-1): TradeShare
-2): Savva
-3): Digital-x Vault
-4): Blockchat-dao
-5): Arm-swap
+
+| No. | Project Name    |
+|-----|-----------------|
+| 1   | TradeShare      |
+| 2   | Savva           |
+| 3   | Digital-x Vault |
+| 4   | Blockchat-dao   |
+| 5   | Arm-swap        |
+
 
 
 
