@@ -8,7 +8,7 @@
 - Security expert at Hashlock
 
 ## Technical Skills
-- Languages: Solidity, JS, C++, react
+- Languages: Solidity, JS, C++, react, Move, Rust, Golang
 - Tools & Platforms: Foundry, Ethereum
 
 
@@ -20,7 +20,7 @@
 
 The following numbers can be verified from the code4rena and Sherlock leaderboard under my name 0xepley(Sherlock+c4), Bugbusters(Team with a friend) (Sherlock + c4).
 
-    Found total of 60+ bugs in various smart contracts  
+    Found total of 100+ bugs in various smart contracts  
 
 **[Second position in secureum race-18](https://discord.com/channels/814328279468474419/927065287172427798/1112616229602070560)**
 
