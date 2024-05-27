@@ -32,11 +32,12 @@ The following numbers can be verified from the code4rena and Sherlock leaderboar
 #### Presently holding the 361th position on the all-time leaderboard of Sherlock.
 #### Ranked 324th on the leaderboard of Code4rena for the year 2023
 #### Presently holding top 150th position on the all-time leaderboard of CodeHawks
+#### Presently holding Rank 72 on the leaderboard of AuditOne
 
 ## Private and Team Engagements
 
 
-## Private Engagements
+## Private Audits
 
 | Project                                             | Type                | Date           | 
 |-----------------------------------------------------|---------------------|----------------|
