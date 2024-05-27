@@ -50,7 +50,8 @@ The following numbers can be verified from the code4rena and Sherlock leaderboar
 
 
 ## Personal Projects and Contributions
-Successfully created a comprehensive blockchain based Web Application that allows users to lend and borrow money in a decentralized manner.
+- Successfully created a comprehensive blockchain based Web Application that allows users to lend and borrow money in a decentralized manner.
+- Created and Launched a meme NFT collection
 
 ## Interests
 - Web3 Security
