@@ -43,11 +43,12 @@ The following numbers can be verified from the code4rena and Sherlock leaderboar
 |-----------------------------------------------------|---------------------|----------------|
 | [TradeShare](https://tradeshare.com/)               | Lending and borrowing  | March, 2024 | 
 | [Arm swap](https://www.armswap.com/)  | Cross chain bridge                 | March, 2024 | 
-| [Blockchat-dao](https://blockchatdao.com/)      | Social Platform            | May, 2024    | 
 | [Savva](https://savva.app/)            | Social Network      | April, 2024    | 
 | [Digital-x Art Vault](https://www.digitalx.com/)     | DEFI                                      | April, 2024    |
 | [Diamond swap](https://www.diamondswap.co/)            | DApp      | May, 2024    | 
 | [lynx-finance](https://www.lynx.finance/)     | DEFI                                      | May, 2024    |
+| [Blockchat-dao](https://blockchatdao.com/)      | Social Platform            | May, 2024    | 
+
 
 
 ## Personal Projects and Contributions
