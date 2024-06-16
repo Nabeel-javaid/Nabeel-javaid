@@ -87,7 +87,7 @@ The following numbers can be verified from the code4rena and Sherlock leaderboar
 
 You can connect me at:
 
-- [0xepley](https://twitter.com/0xepley)
+- [0xepley](https://twitter.com/0xTonya_)
 - [Email](nabeeljaved944@gmail.com)
 
 
