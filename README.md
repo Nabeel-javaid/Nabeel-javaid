@@ -1,9 +1,9 @@
 
 <!-- Your Name and Introduction -->
-# 🎬 Hello, This is Nabeel Javed - Smart Contract Security Researcher
+# 🎬 Hello, This is Nabeel Javed - Security Researcher
 
 ## Professional Experience
-- Over a year of experience in smart contract security auditing, securing awesome positions in multiple contests across various domains including lending and borrowing, cross-chain bridges, insurance protocols, stable coins, and more. This consistent success demonstrates a broad and deep understanding of different blockchain technologies and problem-solving skills.
+- Over a year of experience in security auditing, securing awesome positions in multiple contests across various domains including lending and borrowing, cross-chain bridges, insurance protocols, stable coins, and more. This consistent success demonstrates a broad and deep understanding of different blockchain technologies and problem-solving skills.
 
 - Security expert at Hashlock
 
@@ -48,6 +48,8 @@ The following numbers can be verified from the code4rena and Sherlock leaderboar
 | [Diamond swap](https://www.diamondswap.co/)            | DApp      | May, 2024    | 
 | [lynx-finance](https://www.lynx.finance/)     | DEFI                                      | May, 2024    |
 | [Blockchat-dao](https://blockchatdao.com/)      | Social Platform            | May, 2024    | 
+| [Peaq](https://peaq.io/)      | Infrastructure            | June, 2024    | 
+
 
 
 
