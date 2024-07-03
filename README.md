@@ -5,7 +5,7 @@
 ## Professional Experience
 - Over a year of experience in security auditing, securing awesome positions in multiple contests across various domains including lending and borrowing, cross-chain bridges, insurance protocols, stable coins, and more. This consistent success demonstrates a broad and deep understanding of different blockchain technologies and problem-solving skills.
 
-- Security expert at Hashlock
+- Security expert at [Hashlock](https://www.hashlock.com.au/)
 
 ## Technical Skills
 - Languages: Solidity, JS, C++, react, Move, Rust, Golang
